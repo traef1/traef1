@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @traef1
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning javascript
+- 👀 I’m  a software engineer
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
